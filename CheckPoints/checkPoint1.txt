@@ -1,0 +1,10 @@
+*How does the web works:
+Web pages are written in text with Hypertext Markup Language (HTML), then uploaded to a host computer running web server software, such as Apache or Microsoft's IIS (Internet Information Server). ... The host and client communicate using an agreed 'language' called HTTP (HyperText Transfer Protocol)
+
+*What do you need to be a web developer:
+A web developer is at heart an interactive artist. He is someone driven by a deep desire to create things. A web developer’s canvas is a user’s web browser.
+Much like how a curious child takes pleasure in making toys by joining LEGO blocks—and then experiences a similar joy in taking things apart to see how they’re made, a web developer’s job is to use the basic building blocks of the web (like HTML, CSS and JavaScript) to create something complex like a webpage
+
+
+*What’s the role of a web developer:
+A web developer might, at times, work on a new project (a new website) from scratch, or may have to work on an existing website and make it better. A typical day in the life of a web developer involves fixing bugs, developing new features (that is, enhancements) and webpages, and working with other developers to discuss ways to solve problems
